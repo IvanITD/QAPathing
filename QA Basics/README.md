@@ -1,4 +1,3 @@
-
 <h3>🏆 QA Manual Role Progress</h3>
 <table border="1">
   <thead>
@@ -14,73 +13,49 @@
       <td>Software Quality Assurance Introduction</td>
       <td>Lab</td>
       <td>✅ Completed</td>
-      <td><b><i>Variables</i></b> | <b><i>Data Types</i></b> | <b><i>Console Input/Output</i></b> | <b><i>Simple Operations and Calculations</i></b></td>
-    </tr>
+      <td><b><i>What is software quality assurance? What is software testing</i></b> | <b><i>Software defects (bugs)</i></b> | <b><i>Manual testing vs. automated testing</i></b> | <b><i>The seven testing principles</i></b></td>
+    <b><i>Test scenarios and test cases</i></b></tr>
     <tr>
-      <td>First Steps in Coding</td>
+      <td>Exercise: Software Quality Assurance Introduction</td>
       <td>Exercise</td>
       <td>✅ Completed</td>
-      <td><b><i>Working with variables</i></b> | <b><i>Arithmetic operations</i></b> | <b><i>Basic input and output</i></b> | <b><i>Formulas and calculations</i></b> | <b><i>Data formatting</i></b> | <b><i>Problem decomposition</i></b> | <b><i>Basic logic and decision-making</i></b></td>
+      <td><b><i>N/A</i></b></td>
     </tr>
     <tr>
-      <td>Conditional Statements</td>
+      <td>Bugs and Bug Tracking</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td><b><i>Comparison operators</i></b> | <b><i>Boolean variable</i></b> | <b><i>Simple logical checks</i></b> | <b><i>Series of checks</i></b> | <b><i>Rounding and formatting</i></b> | <b><i>Variable lifetime</i></b> | <b><i>Debugging</i></b></td>
+      <td><b><i>Software Defects</i></b> | <b><i>incident Report</i></b> | <b><i>Defect Lifecycle</i></b> | <b><i>  incident Management Metrics</i></b> | <b><i>Tips for Bug Systems</i></b> | <b><i>Bug Tracking Systems</i></b></td>
     </tr>
     <tr>
-      <td>Conditional Statements</td>
+      <td>Exercise: Bugs and Bug Tracking</td>
       <td>Exercise</td>
       <td>✅ Complete</td>
-      <td><b><i>Time manipulation and calculation</i></b> | <b><i>Conditional logic and branching</i></b> | <b><i>Arithmetic and percentage calculations</i></b> | <b><i>Simple input and output handling</i></b> | <b><i>Basic mathematical operations with variables</i></b> | <b><i>Comparison operators and logical expressions</i></b> | <b><i>Problem-solving with basic data structures</i></b></td>
+      <td><b><i>N/A</i></b></td>
     </tr>
     <tr>
-      <td>Conditional Statements Advanced</td></td>
+      <td>Test Levels and Test Types</td></td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td><b><i>Switch-case construct</b></i> | <b><i>Nested checks</b></i> | <b><i>Logical operators: AND, OR, NOT</b></i></td>
+      <td><b><i>introducing and comparing different test levels</b></i> | <b><i>Test levels: unit testing vs. integration testing vs. system testing</b></i> | <b><i>Test types: static testing, dynamic testing (functional, non-functional), etc.</b></i> | <b><i>Applying different test types throughout the test levels.</i></b></td>
     </tr>
     <tr>
-      <td>Conditional Statements Advanced</td>
+      <td>Exercise: Test Levels and Test Types</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
-      <td><b><i>Logical Operators in Action | Switch Statement with Multiple Cases | Nested If-Else Logic | Range-Based Validation | Dynamic Condition Evaluation | Fallback Logic with Default or Else</i></b></td>
+      <td>🚧 In Progress</td>
+      <td><b><i>N/A</i></b></td>
     </tr>
     <tr>
-      <td>For Loop</td>
-      <td>Lab</td>
-      <td>✅ Complete</td>
-      <td><b><i>Increment and Decrement | For Loop - Syntax | Decreasing For Loop | For Loop with Step</i></b></td>
-    </tr>
-    <tr>
-      <td>For Loop</td>
-      <td>Exercise</td>
-      <td>✅ Complete</td>
-      <td><b><i>Loop Initialization | Loop Condition | Increment/Decrement | Summing or Counting Values | Iterating Through Arrays/Lists | Nested Loops | Break and Continue | Loop Efficiency and Optimization</i></b></td>
-    </tr>
-    <tr>
-      <td>While Loop</td>
-      <td>Lab</td>
-      <td>🚧 In Progress</td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>While Loop</td>
-      <td>Exercise</td>
-      <td>❌ Not Started</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Nested Loops</td>
+      <td>Workshop: Full Manual Testing</td>
       <td>Lab</td>
       <td>❌ Not Started</td>
-      <td></td>
+      <td><b><i>Given a fully-function Web-based project, find the bug and log them in an issue tracker.</i></b></td>
     </tr>
     <tr>
-      <td>Nested Loops</td>
-      <td>Exercise</td>
+      <td>Q&A and Exam Preparation</td>
+      <td>Prep</td>
       <td>❌ Not Started</td>
-      <td></td>
+      <td><b><i>Review of the most important course topics</i></b> | <b><i>Explain the QA industry, open market positions, the SoftUni QA track</i></b> | <b><i>Explain the exam format, testing environment, etc.</i></b> | <b><i>Sample exam questions.</i></b></td>
     </tr>
   </tbody>
 </table>
