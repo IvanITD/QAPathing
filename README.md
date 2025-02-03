@@ -48,12 +48,16 @@
 <td style="vertical-align: top; padding-right: 20px;">
 <h1>QA Basics</h1>
 <h3>Soon .</h3>
+</td>
+
+<details>
 
   <!--This is where the left side starts-->
   <!--PB More Exercises-->
 <td style="vertical-align: top; padding-left: 20px;">
 <h1>Software Technologies</h1>
   <h3>Soon .</h3>
+</td>
 
   <!--Left Side Content-->
   <td style="vertical-align: top; padding-left: 20px;">
