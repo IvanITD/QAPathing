@@ -28,8 +28,6 @@
 <hr>
 <h3>📢 Notes</h3>
 <p>This repository reflects our ongoing progress in the <b>Software Testing as a Manual QA</b>. Some solutions may evolve as We learn and improve. Thank you for visiting and happy testing! 😊</p>
-<p> Also have in mind that in the section <b>Conditional Statements Advanced</b>, the tasks are meant to be written with the <b><i>Switch Statement</i></b>, but I decided to include the tasks written with the <b><i>If-Else Statement</i></b>.
-So feel free to choose whichever one you like better!</p>
 <hr>
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:<br>We also decided to include our <strong>QA More Exercises/Tasks</strong> Section in case someone wants to check what We've done!</p>
