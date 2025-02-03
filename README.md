@@ -32,11 +32,7 @@
       <td>Software Quality Assurance Introduction</td>
       <td>Lab</td>
       <td>✅ Completed</td>
-<<<<<<< HEAD
-      <td><b><i>Variables</i></b> | <b><i>Data Types</i></b> | <b><i>Console Input/Output</i></b> | <b><i>Simple Operations and Calculations</i></b></td>
-=======
       <td><b><i>What is software quality assurance? What is software testing?</i></b> | <b><i>Software defects (bugs)</i></b> | <b><i>Manual testing vs. automated testing</i></b> | <b><i>The seven testing principles</i></b> | <b><i>Test scenarios and test cases</i></b></td>
->>>>>>> c84c77c2b715200a04a4394bc17272d6280c9137
     </tr>
     <tr>
       <td>First Steps in Coding</td>
