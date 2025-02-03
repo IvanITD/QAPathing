@@ -1,3 +1,9 @@
+<h3>📖 About This Course</h3>
+<p>Welcome to <b>QA Basics!</b> 👨‍💻</p>
+
+<p>The "<b>QA Basics</b>" course provides basic software testing skills necessary for the <b>QA technology direction</b> at the <b>Software University</b>. This includes basic concepts in the world of <b>software testing</b> such as: <b><i>test principles</i></b>, <b><i>finding</i></b>, <b><i>analyzing and documenting bugs</i></b>, <b><i>test scenarios</i></b> and <b><i>test cases</i></b>, <b><i>test levels and test types</i></b>. Working with <b>specialized software</b> for analyzing and <b>documenting bugs</b>.</p>
+
+
 <h3>🏆 QA Manual Role Progress</h3>
 <table border="1">
   <thead>

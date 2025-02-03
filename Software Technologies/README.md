@@ -1,6 +1,6 @@
 <h3>📖 About This Course</h3>
 <p>Welcome to <b>Software Technologies - Table Of Contents & Course Map!</b> 👨‍💻</p>
-<p>The course will cover a wide range of aspects of the software industry at a basic level. You will learn about the <b>software and hardware components of a computer system</b>. You will understand the differences and work with different operating systems such as <b>Windows and Linux</b>, <b>networks and protocols</b> such as <b>HTTP, SMTP and IMAP</b>. Together we will go through the different <b>programming languages ​​and software architectures</b>. We will get to know <b>relational and non-relational databases</b> at a basic level. We will work with different <b>project management tools</b>.</p>
+<p>The course will cover a wide range of aspects of the software industry at a basic level. You will learn about the <b>software and hardware components of a computer system</b>. You will understand the differences and work with different operating systems such as <b><i>Windows and Linux</i></b>, <b><i>networks and protocols</i></b> such as <b><i>HTTP, SMTP and IMAP</i></b>. Together we will go through the different <b><i>programming languages ​​and software architectures</i></b>. We will get to know <b><i>relational and non-relational databases</i></b> at a basic level. We will work with different <b><i>project management tools</i></b>.</p>
 <hr>
 <h3>🏆 Software Technologies</h3>
 <table border="1">
