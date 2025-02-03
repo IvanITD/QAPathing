@@ -34,7 +34,7 @@
       <td><b><i>Work with Task Manager in Windows</i></b> | <b><i>Play with Windows Terminal</i></b> | <b><i>Use remote VM instances</i></b> | <b><i>Play with the Linux Shell</i></b></td>
     </tr>
     <tr>
-      <td>Networks, Internet and Protocols</td></td>
+      <td>Networks, Internet and Protocols</td>
       <td>Lab</td>
       <td>❌ Not Started</td>
       <td><b><i>OSI Model, MAC address, IP address, TCP and ports</b></i> | <b><i>Network monitoring tools: Fiddler</b></i> | <b><i>Domains and DNS, WWW</b></i> | <b><i>HTTP, GET, POST, Browser DevTools</i></b> | <b><i>Email protocols: SMTP and IMAP</i></b></td>
@@ -60,38 +60,32 @@
     <tr>
       <td>Databases</td>
       <td>Lab</td>
-      <td>❌ Not Started</td></td>
+      <td>❌ Not Started</td>
       <td><b><i>Relational databases and non-relational databases</i></b> | <b><i>Working with MySQL and Workbench</i></b> | <b><i>Importing database scripts, viewing and editing table/ collection data</i></b> | <b><i>SQL intro & Executing queries in MySQL</i></b></td>
-      <td></td>
     </tr>
     <tr>
       <td>Databases</td>
       <td>Exercise</td>
-      <td>❌ Not Started</td></td>
+      <td>❌ Not Started</td>
       <td><b><i>Work with MySQL and MySQL Workbench</i></b> | <b><i>Import a database from SQL script</i></b> | <b><i>Edit table data</i></b> | <b><i>Run simple SQL queries</i></b></td>
-      <td></td>
     </tr>
     <tr>
       <td>Git and GitHub</td>
       <td>Lab</td>
-      <td>❌ Not Started</td></td>
+      <td>❌ Not Started</td>
       <td><b><i>Git</i></b> | <b><i>GitHub</i></b> | <b><i>Clone, Pull, Commit, Push using Git</i></b></td>
-      <td></td>
     </tr>
     <tr>
       <td>Git and GitHub</td>
       <td>Exercise</td>
-      <td>❌ Not Started</td></td>
+      <td>❌ Not Started</td>
       <td><b><i>Create a repo, clone a repo, make changes, commit, push</i></b> | <b><i>Create a shared repo, create conflict, resolve the conflict, push</i></b></td>
-      <td></td>
-    </tr>
     </tr>
     <tr>
       <td>Software Architectures and Containers</td>
       <td>Lab</td>
-      <td>❌ Not Started</td></td>
+      <td>❌ Not Started</td>
       <td><b><i>Back-End vs. Front-End</i></b> | <b><i>Web APIs</i></b> | <b><i>Virtualization</i></b> | <b><i>Docker, containers and cloud</i></b></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
