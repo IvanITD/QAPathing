@@ -19,12 +19,21 @@
 <hr> 
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions, feedback, or suggestions, feel free to reach out to us via:</p>
-<ul>
-	<li><b>GitHub Profile Ivan:</b> <a href="https://github.com/IvanITD" class="button">IvanITD</a></li>
-	<li><b>LinkedIn Ivan:</b> <a href="https://www.linkedin.com/in/ivanivanovofficial" class="button">Ivan Ivanov</a></li>
-  <li><b>GitHub Profile Aleksandros:</b> <a href="https://github.com/aleksandrostosunidis" class="button">Aleksandros Tosunidis</a></li>
-	<li><b>LinkedIn Aleksandros:</b> <a href="https://www.linkedin.com/in/aleksandros-tosunidis/" class="button">Aleksandros Tosunidis</a></li>
-</ul>
+<!-- Ivan's Social Media -->
+<blockquote>
+<b>GitHub Profile Ivan:</b> <a href="https://github.com/IvanITD" class="button">Ivan Ivanov</a>
+<br>
+<b>LinkedIn Ivan:</b> <a href="https://www.linkedin.com/in/ivanivanovofficial" class="button">Ivan Ivanov</a>
+<br>
+</blockquote>
+<br>
+<!-- Aleksandros's Social Media -->
+<blockquote>
+<b>GitHub Profile Aleksandros:</b> <a href="https://github.com/aleksandrostosunidis" class="button">Aleksandros Tosunidis</a>
+<br>
+<b>LinkedIn Aleksandros:</b> <a href="https://www.linkedin.com/in/aleksandros-tosunidis/" class="button">Aleksandros Tosunidis</a>
+</blockquote>
+<!-- Notes-->
 <hr>
 <h3>📢 Notes</h3>
 <p>This repository reflects our ongoing progress in the <b>Software Testing as a Manual QA</b>. Some solutions may evolve as We learn and improve. Thank you for visiting and happy testing! 😊</p>
