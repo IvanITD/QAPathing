@@ -39,7 +39,7 @@
 <p>This repository reflects our ongoing progress in the <b>Software Testing as a Manual QA</b>. Some solutions may evolve as We learn and improve. Thank you for visiting and happy testing! 😊</p>
 <hr>
 <h3>📋 Contents</h3>
-<p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:<br>We also decided to include our <strong>QA More Exercises/Tasks</strong> Section in case someone wants to check what We've done!</p>
+<p>The repository is organized into <b>modules and subcategories</b> of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:<br>We also decided to include our <strong>QA More Exercises/Tasks</strong> Section in case someone wants to check what We've done!</p>
 <!-- This is where the right side of the content starts-->
 <!-- C# Basics -->
 <table>
