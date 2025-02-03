@@ -13,72 +13,84 @@
       <td>Computer Systems and Software</td>
       <td>Lab</td>
       <td>❌ Not Started</td>
-      <td><b><i>Computer Hardware and OS</i></b> | <b><i>Software defects (bugs)</i></b> | <b><i>Computer Software: Firmware, System, Server-Side, Web Apps, Desktop Apps, Mobile Apps.</i></b>
+      <td><b><i>Computer Hardware and OS</i></b> | <b><i>Software defects (bugs)</i></b> | <b><i>Computer Software: Firmware, System, Server-Side, Web Apps, Desktop Apps, Mobile Apps.</i></b></td>
     </tr>
     <tr>
       <td>Computer Systems and Software</td>
       <td>Exercise</td>
       <td>❌ Not Started</td>
-      <td><b><i>Install and Configure Desktop and Mobile App</i></b> | <b><i>Work with a Web App</i></b> | <b><i>Trello</i></b>
+      <td><b><i>Install and Configure Desktop and Mobile App</i></b> | <b><i>Work with a Web App</i></b> | <b><i>Trello</i></b></td>
     </tr>
     <tr>
-      <td>Conditional Statements</td>
+      <td>Operating Systems</td>
       <td>Lab</td>
-      <td>✅ Complete</td>
-      <td><b><i>Comparison operators</i></b> | <b><i>Boolean variable</i></b> | <b><i>Simple logical checks</i></b> | <b><i>Series of checks</i></b> | <b><i>Rounding and formatting</i></b> | <b><i>Variable lifetime</i></b> | <b><i>Debugging</i></b></td>
+      <td>❌ Not Started</td>
+      <td><b><i>Windows, Linux, macOS, Android</i></b> | <b><i>File Systems, Shell, GUI, Users, Services</i></b></td>
     </tr>
     <tr>
-      <td>Conditional Statements</td>
+      <td>Operating Systems</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
-      <td><b><i>Time manipulation and calculation</i></b> | <b><i>Conditional logic and branching</i></b> | <b><i>Arithmetic and percentage calculations</i></b> | <b><i>Simple input and output handling</i></b> | <b><i>Basic mathematical operations with variables</i></b> | <b><i>Comparison operators and logical expressions</i></b> | <b><i>Problem-solving with basic data structures</i></b></td>
+      <td>❌ Not Started</td>
+      <td><b><i>Work with Task Manager in Windows</i></b> | <b><i>Play with Windows Terminal</i></b> | <b><i>Use remote VM instances</i></b> | <b><i>Play with the Linux Shell</i></b></td>
     </tr>
     <tr>
-      <td>Conditional Statements Advanced</td></td>
+      <td>Networks, Internet and Protocols</td></td>
       <td>Lab</td>
-      <td>✅ Complete</td>
-      <td><b><i>Switch-case construct</b></i> | <b><i>Nested checks</b></i> | <b><i>Logical operators: AND, OR, NOT</b></i></td>
+      <td>❌ Not Started</td>
+      <td><b><i>OSI Model, MAC address, IP address, TCP and ports</b></i> | <b><i>Network monitoring tools: Fiddler</b></i> | <b><i>Domains and DNS, WWW</b></i> | <b><i>HTTP, GET, POST, Browser DevTools</i></b> | <b><i>Email protocols: SMTP and IMAP</i></b></td>
     </tr>
     <tr>
-      <td>Conditional Statements Advanced</td>
+      <td>Networks, Internet and Protocols</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
-      <td><b><i>Logical Operators in Action | Switch Statement with Multiple Cases | Nested If-Else Logic | Range-Based Validation | Dynamic Condition Evaluation | Fallback Logic with Default or Else</i></b></td>
+      <td>❌ Not Started</td>
+      <td><b><i>Explore the local network configuration</i></b> | <b><i>Lookup domain DNS records online</i></b> | <b><i>Play with Dev Tools</i></b> | <b><i>Execute HTTP GET + POST</i></b> | <b><i>Open a REST service</i></b></td>
     </tr>
     <tr>
-      <td>For Loop</td>
+      <td>Programming Languages</td>
       <td>Lab</td>
-      <td>✅ Complete</td>
-      <td><b><i>Increment and Decrement | For Loop - Syntax | Decreasing For Loop | For Loop with Step</i></b></td>
+      <td>❌ Not Started</td>
+      <td><b><i>Low-Level and High-Level Languages, Scripting vs. Compiled Languages, Examples</i></b> | <b><i>Most Popular Programming Languages: JS, Java, Python, C#, PHP</i></b> | <b><i>Getting Familiar with HTML, CSS and JavaScript</i></b></td>
     </tr>
     <tr>
-      <td>For Loop</td>
+      <td>Programming Languages</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
-      <td><b><i>Loop Initialization | Loop Condition | Increment/Decrement | Summing or Counting Values | Iterating Through Arrays/Lists | Nested Loops | Break and Continue | Loop Efficiency and Optimization</i></b></td>
+      <td>❌ Not Started</td>
+      <td><b><i>Follow a few examples from W3Schools</i></b> | <b><i>Play with the browser console</i></b> | <b><i>Play with Python online</i></b></td>
     </tr>
     <tr>
-      <td>While Loop</td>
+      <td>Databases</td>
       <td>Lab</td>
-      <td>🚧 In Progress</td></td>
+      <td>❌ Not Started</td></td>
+      <td><b><i>Relational databases and non-relational databases</i></b> | <b><i>Working with MySQL and Workbench</i></b> | <b><i>Importing database scripts, viewing and editing table/ collection data</i></b> | <b><i>SQL intro & Executing queries in MySQL</i></b></td>
       <td></td>
     </tr>
     <tr>
-      <td>While Loop</td>
+      <td>Databases</td>
       <td>Exercise</td>
-      <td>❌ Not Started</td>
+      <td>❌ Not Started</td></td>
+      <td><b><i>Work with MySQL and MySQL Workbench</i></b> | <b><i>Import a database from SQL script</i></b> | <b><i>Edit table data</i></b> | <b><i>Run simple SQL queries</i></b></td>
       <td></td>
     </tr>
     <tr>
-      <td>Nested Loops</td>
+      <td>Git and GitHub</td>
       <td>Lab</td>
-      <td>❌ Not Started</td>
+      <td>❌ Not Started</td></td>
+      <td><b><i>Git</i></b> | <b><i>GitHub</i></b> | <b><i>Clone, Pull, Commit, Push using Git</i></b></td>
       <td></td>
     </tr>
     <tr>
-      <td>Nested Loops</td>
+      <td>Git and GitHub</td>
       <td>Exercise</td>
-      <td>❌ Not Started</td>
+      <td>❌ Not Started</td></td>
+      <td><b><i>Create a repo, clone a repo, make changes, commit, push</i></b> | <b><i>Create a shared repo, create conflict, resolve the conflict, push</i></b></td>
+      <td></td>
+    </tr>
+    </tr>
+    <tr>
+      <td>Software Architectures and Containers</td>
+      <td>Lab</td>
+      <td>❌ Not Started</td></td>
+      <td><b><i>Back-End vs. Front-End</i></b> | <b><i>Web APIs</i></b> | <b><i>Virtualization</i></b> | <b><i>Docker, containers and cloud</i></b></td>
       <td></td>
     </tr>
   </tbody>
